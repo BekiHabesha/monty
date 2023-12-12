@@ -5,7 +5,7 @@
   <img src="https://i.ibb.co/BLrpTFn/0x18-C-Dynamic-libraries-ALX-Logo.png" />
 </p>
 
-### [*0x19.C- Stacks, Queues - LIFO, FIFO (monty) /The Monty Language/](https://intranet.alxswe.com/projects/249) is a project to be done in teams of 2 people or alone (solo)*
+### [*0x19.C- Stacks, Queues - LIFO, FIFO (monty) /The Monty Language/*](https://intranet.alxswe.com/projects/249) is a project to be done in teams of 2 people or alone (solo)
 * ***Done by:*** ***Bereket Dereje Mekonnen***
 
 <p align="center">
@@ -20,8 +20,8 @@
 * **Project:** [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
 * **GitHub repository:** [**monty**](https://github.com/BekiHabesha/monty)
 * **Directory:** 
-  * [**monty**](https://github.com/BekiHabesha/monty)     
-  * [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf)
+  * [**monty**](https://github.com/BekiHabesha/monty) 📂      
+  * [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂 
 * **Project Tasks:** <ins>**Mandatory and Advanced**</ins>
 * **Tasks in number:** <ins>**20 Tasks (6-Mandatory & 14-Advanced)**</ins>
 * **Mandatory_Tasks:** <ins>**From Task 0 to 5**</ins>
@@ -352,7 +352,7 @@ BekiHabesha@ubuntu:~/monty$
 
 <H3><ins>The push opcode</ins> :
 
-* The **opcode [**push**](./f_push.c) pushes an element to the stack.
+* The **opcode** [**push**](./f_push.c) **pushes an element to the stack.**
   * <ins>**Usage</ins>:** **push <int>**
     * where **<int>** is an integer.
   * if **<int>** is not an integer or if there is no argument given to [**push**](./f_push.c), print the error message **L<line_number>:** **usage:** **push integer**, followed by a new line, and exit with the status **EXIT_FAILURE**
