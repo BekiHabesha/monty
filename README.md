@@ -350,7 +350,7 @@ BekiHabesha@ubuntu:~/monty$
 * **Implement the [**push**](./f_push.c) and [**pall**](./f_pall.c) opcodes.**
 ###
 
-<H3><ins>The push opcode</ins> :
+<H3><ins>The push opcode:</ins>
 
 * The **opcode** [**push**](./f_push.c) **pushes an element to the stack.**
   * <ins>**Usage</ins>:** **push <int>**
@@ -361,9 +361,9 @@ BekiHabesha@ubuntu:~/monty$
 
 ###
 
-<H3><ins>The pall opcode</ins> :
+<H3><ins>The pall opcode:</ins>
 
-* The **opcode [**pall**](./f_pall.c) prints all the values on the stack, starting from the top of the stack.
+* The **opcode** [**pall**](./f_pall.c) **prints all the values on the stack, starting from the top of the stack.**
   * <ins>**Usage</ins>:** **pall**
   * Format: see example
   * If the stack is empty, don’t print anything
