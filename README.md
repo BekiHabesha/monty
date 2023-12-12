@@ -5,7 +5,7 @@
   <img src="https://i.ibb.co/BLrpTFn/0x18-C-Dynamic-libraries-ALX-Logo.png" />
 </p>
 
-### [*0x19.C- Stacks, Queues - LIFO, FIFO (monty) /The Monty Language/](https://intranet.alxswe.com/projects/249) is a project to be done in teams of 2 people or alone (solo) *
+### [*0x19.C- Stacks, Queues - LIFO, FIFO (monty) /The Monty Language/](https://intranet.alxswe.com/projects/249) is a project to be done in teams of 2 people or alone (solo)*
 * ***Done by:*** ***Bereket Dereje Mekonnen***
 
 <p align="center">
@@ -26,7 +26,6 @@
 * **Tasks in number:** <ins>**20 Tasks (6-Mandatory & 14-Advanced)**</ins>
 * **Mandatory_Tasks:** <ins>**From Task 0 to 5**</ins>
 * **Advanced_Tasks:** <ins>**From Task 6 to 19**</ins>
-<br>
 * **Project Weight:** <ins>**2 (Two)**</ins>
 * **Project Start Date:** <ins>**Dec 12, 2023 6:00 AM**</ins>
 * **Project End Date:** <ins>**Dec 15, 2023 6:00 AM**</ins>
@@ -352,15 +351,18 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The push opcode</ins> :
+
 * The **opcode [**push**](./f_push.c) pushes an element to the stack.
   * <ins>**Usage</ins>:** **push <int>**
     * where **<int>** is an integer.
   * if **<int>** is not an integer or if there is no argument given to [**push**](./f_push.c), print the error message **L<line_number>:** **usage:** **push integer**, followed by a new line, and exit with the status **EXIT_FAILURE**
     * where is the line number in the file
   * You won’t have to deal with overflows. Use the **atoi** function.
+
 ###
 
 <H3><ins>The pall opcode</ins> :
+
 * The **opcode [**pall**](./f_pall.c) prints all the values on the stack, starting from the top of the stack.
   * <ins>**Usage</ins>:** **pall**
   * Format: see example
@@ -376,6 +378,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The pint opcode</ins> :
+
 * The **opcode [**pint**](./f_pint.c) prints the value at the top of the stack, followed by a new line.
   * <ins>**Usage</ins>:** **pint**
   * If the stack is empty, print the error message **L<line_number>:** **can't pint**, **stack empty**, followed by a new line, and exit with the status **EXIT_FAILURE**
@@ -390,6 +393,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The pop opcode</ins> :
+
 * The **opcode [**pop**](./f_pop.c) removes the top element of the stack.
   * <ins>**Usage</ins>:** **pop**
   * If the stack is empty, print the error message **L<line_number>:** **can't pop an empty stack**, followed by a new line, and exit with the status **EXIT_FAILURE**
@@ -404,6 +408,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The swap opcode</ins> :
+
 * The **opcode [**swap**](./f_swap.c) swaps the top two elements of the stack.
   * <ins>**Usage</ins>:** **swap**
   * If the stack contains less than two elements, print the error message **L<line_number>:** **can't swap**, **stack too short**, followed by a new line, and exit with the status **EXIT_FAILURE**
@@ -418,6 +423,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The add opcode</ins> :
+
 * The **opcode [**add**](./f_add.c) adds the top two elements of the stack.
   * <ins>**Usage</ins>:** **add**
   * If the stack contains less than two elements, print the error message **L<line_number>:** **can't add**, **stack too short**, followed by a new line, and exit with the status **EXIT_FAILURE**
@@ -435,6 +441,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The nop opcode</ins> :
+
 * The **opcode [**nop**](./f_nop.c) doesn’t do anything.
   * <ins>**Usage</ins>:** **nop**
 
@@ -448,6 +455,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The sub opcode</ins> :
+
 * The **opcode [**sub**](./f_sub.c) subtracts the top element of the stack from the second top element of the stack.
   * <ins>**Usage</ins>:** **sub**
   * If the stack contains less than two elements, print the error message **L<line_number>:** **can't sub**, **stack too short**, followed by a new line, and exit with the status **EXIT_FAILURE**
@@ -465,6 +473,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The div opcode</ins> :
+
 * The **opcode [**div**](./f_div.c) divides the second top element of the stack by the top element of the stack.
   * <ins>**Usage</ins>:** **div**
   * If the stack contains less than two elements, print the error message **L<line_number>:** **can't div**, **stack too short**, followed by a new line, and exit with the status **EXIT_FAILURE**
@@ -481,6 +490,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The mul opcode</ins> :
+
 * The **opcode [**mul**](./f_mul.c) multiplies the second top element of the stack with the top element of the stack.
   * <ins>**Usage</ins>:** **mul**
   * If the stack contains less than two elements, print the error message **L<line_number>:** **can't mul**, **stack too short**, followed by a new line, and exit with the status **EXIT_FAILURE**
@@ -496,6 +506,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The mod opcode</ins> :
+
 * The **opcode [**mod**](./f_mod.c) computes the rest of the division of the second top element of the stack by the top element of the stack.
   * <ins>**Usage</ins>:** **mod**
   * If the stack contains less than two elements, print the error message **L<line_number>:** **can't mod**, **stack too short**, followed by a new line, and exit with the status **EXIT_FAILURE**
@@ -518,6 +529,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The pchar opcode</ins> :
+
 * The **opcode [**pchar**](./f_pchar.c) prints the char at the top of the stack, followed by a new line.
   * <ins>**Usage</ins>:** **pchar**
   * The integer stored at the top of the stack is treated as the **ascii value** of the character to be printed
@@ -534,6 +546,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The pstr opcode</ins> :
+
 * The **opcode [**pstr**](./f_pstr.c) prints the string starting at the top of the stack, followed by a new line.
   * <ins>**Usage</ins>:** **pstr**
   * The integer stored in each element of the stack is treated as the **ascii value** of the character to be printed
@@ -553,6 +566,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The rotl opcode</ins> :
+
 * The **opcode [**rotl**](./f_rotl.c) prints the string starting at the top of the stack, followed by a new line.
   * <ins>**Usage</ins>:** **rotl**
   * The top element of the stack becomes the last one, and the second top element of the stack becomes the first one.
@@ -568,6 +582,7 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The rotr opcode</ins> :
+
 * The **opcode [**rotr**](./f_rotr.c) rotates the stack to the bottom.
   * <ins>**Usage</ins>:** **rotr**
   * The last element of the stack becomes the top element of the stack.
@@ -581,14 +596,17 @@ BekiHabesha@ubuntu:~/monty$
 ###
 
 <H3><ins>The stack opcode</ins> :
+
 * The **opcode [**stack**](./f_stack.c) sets the format of the data to a stack (LIFO). This is the default behavior of the program.
   * <ins>**Usage</ins>:** **stack**
 ###
 
 <H3><ins>The queue opcode</ins> :
+
 * The **opcode [**queue**](./f_queue.c) sets the format of the data to a queue (FIFO).
   * <ins>**Usage</ins>:** **queue**
 ###
+
 * <ins>**When switching mode:**</ins>
   * The top of the stack becomes the front of the queue
   * The front of the queue becomes the top of the stack
@@ -601,6 +619,7 @@ BekiHabesha@ubuntu:~/monty$
 * **File:**
   * [**1000-school.bf**](./bf/1000-school.bf)
 ###
+
 * <ins>**Write a Brainf*ck script that prints School,**</ins> followed by a new line.
   * All your Brainf*ck files should be stored inside the **bf** sub directory.
   * You can install the **bf** interpreter to test your code: **sudo apt-get install bf**
@@ -614,6 +633,7 @@ BekiHabesha@ubuntu:~/monty$
 * **File:**
   * [**1001-add.bf**](./bf/1001-add.bf)
 ###
+
 * <ins>**Add two digits given by the user.**</ins>
   * Read the two digits from stdin, add them, and print the result
   * The total of the two digits with be one digit-long (<10).
