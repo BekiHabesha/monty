@@ -16,10 +16,10 @@
 * **File_name:** <ins>**README.md file**</ins>
 * **Created:** <ins>**On December 12, 2023**</ins>
 * **Author: 🖊** <ins>***Bereket Dereje Mekkonen***</ins>👨🏽‍💻
-* **Project:** [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
-* **GitHub repository:** :floppy_disk: [**monty**](https://github.com/BekiHabesha/monty)
-* **Directory:** 📦
-  * [**monty**](https://github.com/BekiHabesha/monty)  🗂
+* **Project Title:💻**  [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
+* **GitHub repository:**📦 [**monty**](https://github.com/BekiHabesha/monty)
+* **Directory:** 🗂
+  * [**monty**](https://github.com/BekiHabesha/monty)  📁
   * [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
 * **Project Tasks:** <ins>**Mandatory and Advanced**</ins>
 * **Tasks in number:** <ins>**20 Tasks (6-Mandatory & 14-Advanced)**</ins>
@@ -29,27 +29,8 @@
 * **Project Weight: ⚖️** <ins>**2 (Two)**</ins>
 * **Project Start Date:📅** <ins>**Dec 12, 2023 🕕6:00 AM**</ins>
 * **Project End Date:🗓️** <ins>**Dec 15, 2023 🕕6:00 AM**</ins>
-* **Checker Released Date:⏱️** <ins>**Dec 13, 2023 🕛 12:00 AM**</ins>
-* **Auto Review Launched Date:⏰** <ins>**@ The Deadline, Dec 15, 2023**</ins>
-##
-##
-* **File_name:** <ins>**README.md file**</ins>
-* **Created:** <ins>**On December 12, 2023**</ins>
-* **Author:** <ins>***Bereket Dereje Mekkonen***</ins>
-* **Project:** [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
-* **GitHub repository:** :floppy_disk: [**monty**](https://github.com/BekiHabesha/monty)
-* **Directory:** 📂
-  * [**monty**](https://github.com/BekiHabesha/monty)  
-  * [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
-* **Project Tasks:** <ins>**Mandatory and Advanced**</ins>
-* **Tasks in number:** <ins>**20 Tasks (6-Mandatory & 14-Advanced)**</ins>
-* **Mandatory_Tasks:** <ins>**From Task 0 to 5**</ins>
-* **Advanced_Tasks:** <ins>**From Task 6 to 19**</ins>
-* **Project Weight:** <ins>**2 (Two)**</ins>
-* **Project Start Date:** <ins>**Dec 12, 2023 6:00 AM**</ins>
-* **Project End Date:** <ins>**Dec 15, 2023 6:00 AM**</ins>
-* **Checker Released Date:** <ins>**Dec 13, 2023 12:00 AM**</ins>
-* **Auto Review Launched Date:** <ins>**@ The Deadline, Dec 15, 2023**</ins>
+* **Checker Released Date:🗓️** <ins>**Dec 13, 2023 ⌚️ 12:00 AM**</ins> 
+* **Auto Review Launched Date:🗓️** <ins>**@ The Deadline⏰(Dec 15, 2023)**</ins> 
 ## 
 
 <p align="center">
@@ -58,11 +39,11 @@
 
 ##
 
-## <ins>**PROJECT_TITLE</ins>:**    [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
+## <ins>**PROJECT_TITLE</ins>: 💻**    [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
 
-## <ins>**GITHUB_REPOSITORY</ins>:** :floppy_disk:    [**monty**](https://github.com/BekiHabesha/monty)
+## <ins>**GITHUB_REPOSITORY</ins>:📦**    [**monty**](https://github.com/BekiHabesha/monty)
 
-## <ins>**DIRECTORY</ins>: 📂**  [**monty**](https://github.com/BekiHabesha/monty) and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
+## <ins>**DIRECTORY</ins>: 🗂**  [**monty**](https://github.com/BekiHabesha/monty) 📁 and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
 
 ### 
 
@@ -119,9 +100,9 @@
 
 ##
 
-<h1> <ins>Resources</ins> :floppy_disk:</H1>
+<h1> <ins>Resources</ins> 💡💎</H1>
 
-### **Read or watch:** :heavy_check_mark:
+### **Read📒📖 or watch🖥️:** :heavy_check_mark:
 * [**Google**](https://intranet.alxswe.com/rltoken/tn1X658KGumYYq_szFJI5w)
 * [**How do I use extern to share variables between source files in C?**](https://intranet.alxswe.com/rltoken/0KVWTdE8xXy__jUfBfakCw)
 * [**Stacks and Queues in C**](https://intranet.alxswe.com/rltoken/udmomL4F4mF630D2Z-ltqg)
@@ -135,7 +116,7 @@
 
 ###
 
-<H1><ins>Learning Objectives</ins>:floppy_disk:</H1>
+<H1><ins>Learning Objectives</ins>📋📚</H1>
 
 * At the end of this project, You are expected to be able to [**explain to anyone**](https://intranet.alxswe.com/rltoken/_kxhiyVFey_mAGnzuHKL1w), **Without the help of Google:**
 
@@ -145,7 +126,7 @@
 
 ###
 
-<H2> <ins>General Learning Objectives</ins> :heavy_check_mark:</H2>
+<H2> <ins>General Learning Objectives</ins> 📜 :heavy_check_mark:</H2>
 
 * **What do <ins>LIFO</ins> and <ins>it FIFO</ins> mean.**
 * **What is a <ins>stack</ins>, and when to <ins>use it</ins>.**
@@ -160,7 +141,7 @@
 
 ###
 
-<H2> <ins>Copyright - Plagiarism</ins> :heavy_check_mark:</H2>
+<H2> <ins>Copyright - Plagiarism</ins> ⚠️ </H2>
 
 <p align="center">
   <img src="https://i.ibb.co/Dr7zQyb/alx-do-hard-things.png" />
@@ -173,13 +154,13 @@
 
 ##
 
-<H1><ins>Requirements</ins> :floppy_disk:</H1>
+<H1><ins>Requirements</ins> 🖊📒</H1>
 
 <p align="center">
   <img src="https://i.ibb.co/F3yxSVj/alx-do-better-edited.png" />
 </p>
 
-<H2>General Requirements :heavy_check_mark:</H2>
+<H2>General Requirements 📋:heavy_check_mark:</H2>
 
 * Allowed editors: <ins>**vi**</ins>, <ins>**vim**</ins>, <ins>**emacs**</ins>.
 * All your files will be **interpreted/compiled** on <ins>**Ubuntu 20.04 LTS**</ins> Using <ins>**gcc**</ins>, Using the options <ins>**-Wall -Werror -Wextra -pedantic -std=c89**</ins>
@@ -206,9 +187,9 @@
 
 ##
 
-<H1><ins>More Info</ins> :floppy_disk:</H1>
+<H1><ins>More Info</ins> 🎁ℹ️</H1>
 
-<H2>Data structures :heavy_check_mark:</H2>
+<H2>Data structures 📌 :heavy_check_mark:</H2>
 
 * Please use the following [**data structures**](./monty.h) for this project. Don’t forget to include them in your [**header file**](./monty.h).
 
@@ -265,7 +246,7 @@ typedef struct instruction_s
 
 ##
 
-<H1><ins>Tests</ins> :floppy_disk:</H1>
+<H1><ins>Tests</ins> 🔰</H1>
 
 * **We strongly encourage you to work all together on a set of tests**
 
@@ -275,7 +256,7 @@ typedef struct instruction_s
   <img src="https://i.ibb.co/ZYBmwT1/Monty-heading.png" />
 </p>
 
-<H1><ins>The Monty language</ins> :floppy_disk:</H1>
+<H1><ins>The Monty language</ins> 🔖:</H1>
 
 * **Monty 0.98** is a scripting language that is first compiled into **Monty byte codes** (Just like Python). It relies on a **unique stack**, with specific instructions to manipulate it. <ins>**The goal of this project is**</ins> to create an interpreter for **Monty ByteCodes files**.
 
@@ -283,7 +264,7 @@ typedef struct instruction_s
   <img src="https://i.ibb.co/MBLF7Xh/Monty-java-c-python-pic.jpg" />
 </p>
 
-<H2><ins>Monty byte code files</ins> :heavy_check_mark:</H2>
+<H2><ins>Monty byte code files</ins> 📕📗📘📙:heavy_check_mark:</H2>
  
 * **Files containing <ins>Monty byte codes</ins> usually have the <ins>.m<ins> extension.** Most of the industry uses this standard but it is not required by the specification of the language. There is **not more than one instruction per line**. There can be **any number of spaces** before or after the <ins>**opcode and its argument**</ins>:
 
@@ -324,7 +305,7 @@ pall This is the end of our program. Monty is awesome!$
 BekiHabesha@BekiHabesha:~/monty$
 ```
 
-<H2><ins>The Monty Program</ins> :heavy_check_mark:</H2>
+<H2><ins>The Monty Program</ins> 💻:heavy_check_mark:</H2>
  
 * Usage: <ins>**monty file**</ins>
     * where **file** is the path to the file containing Monty byte code
@@ -343,11 +324,13 @@ BekiHabesha@BekiHabesha:~/monty$
 
 ##
 
-## <ins>**PROJECT_TITLE</ins>:**    [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
+## <ins>**PROJECT_TITLE</ins>: 💻**    [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
 
-## <ins>**GITHUB_REPOSITORY</ins>:** :floppy_disk:    [**monty**](https://github.com/BekiHabesha/monty)
+## <ins>**GITHUB_REPOSITORY</ins>:📦**    [**monty**](https://github.com/BekiHabesha/monty)
 
-## <ins>**DIRECTORY</ins>: 📂**  [**monty**](https://github.com/BekiHabesha/monty) and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
+## <ins>**DIRECTORY</ins>: 🗂**  [**monty**](https://github.com/BekiHabesha/monty) 📁 and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
+
+### 
 
 ###
 
