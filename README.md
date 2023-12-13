@@ -831,7 +831,7 @@ BekiHabesha@BekiHabesha:~/monty/bf$ bf 1002-mul.bf
 ## **No. 19. Multiplication level up** :heavy_check_mark:
 * **File:**
   * [**1003-mul.bf**](./bf/1003-mul.bf)
-######
+
 * <ins>**Multiply two digits given by the user.**</ins>
   * Read the two digits from stdin, multiply them, and print the result, followed by a new line.
 
