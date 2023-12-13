@@ -5,7 +5,7 @@
   <img src="https://i.ibb.co/BLrpTFn/0x18-C-Dynamic-libraries-ALX-Logo.png" />
 </p>
 
-### [*0x19.C- Stacks, Queues - LIFO, FIFO (monty) /The Monty Language/](https://intranet.alxswe.com/projects/249) is a project to be done in teams of 2 people or alone (solo) *
+### [*0x19.C- Stacks, Queues - LIFO, FIFO (monty) /The Monty Language/*](https://intranet.alxswe.com/projects/249) *is a project to be done in teams of 2 people or alone (solo)*
 * ***Done by:*** ***Bereket Dereje Mekonnen***
 
 <p align="center">
@@ -83,8 +83,8 @@
 |  | [**stack**](./f_stack.c) | **Toggles the doubly link list implementation style** |    |
 |  | [**sub**](./f_sub.c) | **Subtract the top element from the 2nd top element** |    |
 |  | [**swap**](./f_swap.c) | **Swaps the order of the 1st and 2nd elements in stack** |    |
-|`  |    |     |   ` |
-|`  |    |     |    `|
+|` ` |`   ` |`    ` |`   ` |
+|` ` |`   ` |`    ` | `   `|
 |  | <H3 align="center">Others</H3>  |  <H3 align="center">Function</H3> |    |
 |  | [**add node**](./add_node.c) | **Add node to the head stack** |    |
 |  | [**execute**](./exec.c) | **Executes the opcode** |    |
@@ -378,6 +378,7 @@ BekiHabesha@BekiHabesha:~/monty$
 ###
 
 <H3><ins>The pint opcode</ins></H3>
+
 * The **opcode** [**pint**](./f_pint.c) **prints** the value at the top of the stack, followed by a new line.
   * <ins>**Usage</ins>:** [**pint**](./f_pint.c)
   * If the stack is empty, print the error message **L<line_number>: can't pint, stack empty,** followed by a **new line**, and **exit** with the status **EXIT_FAILURE**
