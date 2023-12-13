@@ -368,9 +368,9 @@ BekiHabesha@ubuntu:~/monty$
 <H3><ins>The push opcode:</ins></H3>
 
 * The **opcode** [**push**](./f_push.c) **pushes an element to the stack.**
-  * <ins>**Usage</ins>:** [**push < int >**](./f_push.c)
-    * where [**< int >**](,/f_push.c) is an integer.
-  * if [**< int >**](./f_push.c) is not an integer or if there is no argument given to [**push**](./f_push.c), print the error message **L<line_number>:** **usage:** **push integer**, followed by a new line, and exit with the status **EXIT_FAILURE**
+  * <ins>**Usage</ins>:** [**push <int>**](./f_push.c)
+    * where [**<int>**](,/f_push.c) is an integer.
+  * if [**<int>**](./f_push.c) is not an integer or if there is no argument given to [**push**](./f_push.c), print the error message **L<line_number>:** **usage:** **push integer**, followed by a new line, and exit with the status **EXIT_FAILURE**
     * where is the line number in the file
   * You won’t have to deal with overflows. Use the **atoi** function.
 
