@@ -199,6 +199,7 @@
 * Please use the following [**data structures**](./monty.h) for this project. Don’t forget to include them in your [**header file**](./monty.h).
 
 ```js
+string.bold()
 <b>/**</b>
 <b>* struct stack_s - doubly linked list representation of a stack (or queue)</b>
  * @n: integer
