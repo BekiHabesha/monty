@@ -234,9 +234,16 @@ typedef struct stack_s
 <br>
 
 ```js
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 p.normal {
   font-weight: bold;
 }
+</style>
+</head>
+<body>
 
 <p class="normal">
 /**
@@ -252,6 +259,8 @@ typedef struct instruction_s
         char *opcode;
         void (*f)(stack_t **stack, unsigned int line_number);
 } instruction_t;</P>
+</body>
+</html>
 ```
 
 ##
