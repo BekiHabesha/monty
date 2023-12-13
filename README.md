@@ -26,7 +26,6 @@
 * **Tasks in number:** <ins>**20 Tasks (6-Mandatory & 14-Advanced)**</ins>
 * **Mandatory_Tasks:** <ins>**From Task 0 to 5**</ins>
 * **Advanced_Tasks:** <ins>**From Task 6 to 19**</ins>
-
 * **Project Weight:** <ins>**2 (Two)**</ins>
 * **Project Start Date:** <ins>**Dec 12, 2023 6:00 AM**</ins>
 * **Project End Date:** <ins>**Dec 15, 2023 6:00 AM**</ins>
@@ -43,9 +42,9 @@
 
 ## <ins>**PROJECT_TITLE</ins>:**    [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
 
-## <ins>**GITHUB_REPOSITORY</ins>: ** :floppy_disk:    [**monty**](https://github.com/BekiHabesha/monty)
+## <ins>**GITHUB_REPOSITORY</ins>:** :floppy_disk:    [**monty**](https://github.com/BekiHabesha/monty)
 
-## <ins>**DIRECTORY</ins>: 📂**  [**monty**](https://github.com/BekiHabesha/monty)📂 and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
+## <ins>**DIRECTORY</ins>: 📂**  [**monty**](https://github.com/BekiHabesha/monty) and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
 
 ### 
 
@@ -84,12 +83,9 @@
 |  | [**stack**](./f_stack.c) | **Toggles the doubly link list implementation style** |    |
 |  | [**sub**](./f_sub.c) | **Subtract the top element from the 2nd top element** |    |
 |  | [**swap**](./f_swap.c) | **Swaps the order of the 1st and 2nd elements in stack** |    |
-|  |    |     |    |
-|  |    |     |    |
-<br>
-
+|`  |    |     |   ` |
+|`  |    |     |    `|
 |  | <H3 align="center">Others</H3>  |  <H3 align="center">Function</H3> |    |
-|:---:| :---| :--- |:---| 
 |  | [**add node**](./add_node.c) | **Add node to the head stack** |    |
 |  | [**execute**](./exec.c) | **Executes the opcode** |    |
 |  | [**free stack**](./add_node.c) | **Frees a doubly linked list** |    |
