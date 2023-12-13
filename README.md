@@ -199,7 +199,7 @@
 * Please use the following [**data structures**](./monty.h) for this project. Don’t forget to include them in your [**header file**](./monty.h).
 
 ```js
-/**
+<b>/**
  * struct stack_s - doubly linked list representation of a stack (or queue)
  * @n: integer
  * @prev: points to the previous element of the stack (or queue)
@@ -213,7 +213,7 @@ typedef struct stack_s
         int n;
         struct stack_s *prev;
         struct stack_s *next;
-} stack_t;
+} stack_t;</b>
 ```
 
 <br>
