@@ -13,7 +13,6 @@
 </p>
 
 ##
-
 * **File_name:** <ins>**README.md file**</ins>
 * **Created:** <ins>**On December 12, 2023**</ins>
 * **Author:** <ins>***Bereket Dereje Mekkonen***</ins>
@@ -31,7 +30,6 @@
 * **Project End Date:** <ins>**Dec 15, 2023 6:00 AM**</ins>
 * **Checker Released Date:** <ins>**Dec 13, 2023 12:00 AM**</ins>
 * **Auto Review Launched Date:** <ins>**@ The Deadline, Dec 15, 2023**</ins>
-
 ## 
 
 <p align="center">
@@ -77,14 +75,16 @@
 |  | [**pop**](./f_pop.c) | **Remove element from 'top' of stack and 'end' of queue** |    |
 |  | [**pstr**](./f_pstr.c) | **Print the character at the top of the stack** |    |
 |  | [**push**](./f_push.c) | **Add element to the 'top' of stack and 'end' of queue** |    |
-|  | [**queue**](./f_queue.c) | **Toggles the doubly link list implementation style** |    |
+|  | [**queue**](./f_queue.c) | **sets the format of the data to a queue (FIFO)** |    |
 |  | [**rotl**](./f_rotl.c) | **Moves element at the top to the bottom of the stack** |    |
 |  | [**rotr**](./f_rotr.c) | **The bottom of the stack becomes the top** |    |
-|  | [**stack**](./f_stack.c) | **Toggles the doubly link list implementation style** |    |
+|  | [**stack**](./f_stack.c) | **sets the format of the data to a stack (LIFO)** |    |
 |  | [**sub**](./f_sub.c) | **Subtract the top element from the 2nd top element** |    |
 |  | [**swap**](./f_swap.c) | **Swaps the order of the 1st and 2nd elements in stack** |    |
-|` ` |`   ` |`    ` |`   ` |
-|` ` |`   ` |`    ` | `   `|
+|  |    |     |    |
+|  |    |     |    |
+|  |    |     |    |
+|  |    |     |    |
 |  | <H3 align="center">Others</H3>  |  <H3 align="center">Function</H3> |    |
 |  | [**add node**](./add_node.c) | **Add node to the head stack** |    |
 |  | [**execute**](./exec.c) | **Executes the opcode** |    |
@@ -325,9 +325,9 @@ BekiHabesha@BekiHabesha:~/monty$
 
 ## <ins>**PROJECT_TITLE</ins>:**    [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
 
-## <ins>**GITHUB_REPOSITORY</ins>: ** :floppy_disk:    [**monty**](https://github.com/BekiHabesha/monty)
+## <ins>**GITHUB_REPOSITORY</ins>:** :floppy_disk:    [**monty**](https://github.com/BekiHabesha/monty)
 
-## <ins>**DIRECTORY</ins>: 📂**  [**monty**](https://github.com/BekiHabesha/monty)📂 and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
+## <ins>**DIRECTORY</ins>: 📂**  [**monty**](https://github.com/BekiHabesha/monty) and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
 
 ###
 
@@ -376,7 +376,6 @@ BekiHabesha@BekiHabesha:~/monty$
 
 * **Implement** the [**pint**](./f_pint.c) **opcode.**
 ###
-
 <H3><ins>The pint opcode</ins></H3>
 
 * The **opcode** [**pint**](./f_pint.c) **prints** the value at the top of the stack, followed by a new line.
@@ -405,6 +404,7 @@ BekiHabesha@BekiHabesha:~/monty$
 * **Implement the [**pop**](./f_pop.c) opcode.**
 ###
 <H3><ins>The pop opcode</ins></H3>
+
 * The **opcode** [**pop**](./f_pop.c) **removes** the top element of the stack.
   * <ins>**Usage</ins>:** [**pop**](./f_pop.c)
   * If the stack is empty, print the error message **L<line_number>: can't pop an empty stack,** followed by a **new line**, and **exit** with the status **EXIT_FAILURE**
@@ -438,6 +438,7 @@ BekiHabesha@BekiHabesha:~/monty$
 * **Implement the [**swap**](./f_swap.c) opcode.**
 ###
 <H3><ins>The swap opcode</ins></H3>
+
 * The **opcode** [**swap**](./f_swap.c) **swaps** the top two elements of the stack.
   * <ins>**Usage</ins>:** [**swap**](./f_swap.c)
   * If the stack contains less than two elements, print the error message **L<line_number>: can't swap, stack too short,** followed by a **new line**, and **exit** with the status **EXIT_FAILURE**
@@ -467,6 +468,7 @@ BekiHabesha@BekiHabesha:~/monty$
 * **Implement the [**add**](./f_add.c) opcode.**
 ###
 <H3><ins>The add opcode</ins></H3>
+
 * The **opcode** [**add**](./f_add.c) **adds** the top two elements of the stack.
   * <ins>**Usage</ins>:** [**add**](./f_add.c)
   * If the stack contains less than two elements, print the error message **L<line_number>: can't add, stack too short,** followed by a **new line**, and **exit** with the status **EXIT_FAILURE**
@@ -498,8 +500,8 @@ BekiHabesha@BekiHabesha:~/monty$
 
 * **Implement the [**nop**](./f_nop.c) opcode.**
 ###
-
 <H3><ins>The nop opcode</ins></H3>
+
 * The **opcode** [**nop**](./f_nop.c) **doesn’t do anything.**
   * <ins>**Usage</ins>:** [**nop**](./f_nop.c)
 
@@ -512,6 +514,7 @@ BekiHabesha@BekiHabesha:~/monty$
 * **Implement the [**sub**](./f_sub.c) opcode.**
 ###
 <H3><ins>The sub opcode</ins></H3>
+
 * The **opcode** [**sub**](./f_sub.c) **subtracts** the top element of the stack from the second top element of the stack.
   * <ins>**Usage</ins>:** [**sub**](./f_sub.c)
   * If the stack contains less than two elements, print the error message **L<line_number>: can't sub, stack too short,** followed by a **new line**, and **exit** with the status **EXIT_FAILURE**
@@ -541,6 +544,7 @@ BekiHabesha@BekiHabesha:~/monty$
 * **Implement the [**div**](./f_div.c) opcode.**
 ###
 <H3><ins>The div opcode</ins></H3>
+
 * The **opcode** [**div**](./f_div.c) **divides** the second top element of the stack by the top element of the stack.
   * <ins>**Usage</ins>:** [**div**](./f_div.c)
   * If the stack contains less than two elements, print the error message **L<line_number>: can't div, stack too short,** followed by a **new line**, and **exit** with the status **EXIT_FAILURE**
@@ -556,6 +560,7 @@ BekiHabesha@BekiHabesha:~/monty$
 * **Implement the [**mul**](./f_mul.c) opcode.**
 ###
 <H3><ins>The mul opcode</ins></H3>
+
 * The **opcode** [**mul**](./f_mul.c) **multiplies** the second top element of the stack with the top element of the stack.
   * <ins>**Usage</ins>:** [**mul**](./f_mul.c)
   * If the stack contains less than two elements, print the error message **L<line_number>: can't mul, stack too short,** followed by a **new line**, and **exit** with the status **EXIT_FAILURE**
@@ -570,6 +575,7 @@ BekiHabesha@BekiHabesha:~/monty$
 * **Implement the [**mod**](./f_mod.c) opcode.**
 ###
 <H3><ins>The mod opcode</ins></H3>
+
 * The **opcode** [**mod**](./f_mod.c) **computes** the rest of the division of the second top element of the stack by the top element of the stack.
   * <ins>**Usage</ins>:** [**mod**](./f_mod.c)
   * If the stack contains less than two elements, print the error message **L<line_number>: can't mod, stack too short,** followed by a **new line**, and **exit** with the status **EXIT_FAILURE**
@@ -591,6 +597,7 @@ BekiHabesha@BekiHabesha:~/monty$
 * **Implement the [**pchar**](./f_pchar.c) opcode.**
 ###
 <H3><ins>The pchar opcode</ins></H3>
+
 * The **opcode** [**pchar**](./f_pchar.c) **prints** the char at the top of the stack, followed by a new line.
   * <ins>**Usage</ins>:** [**pchar**](./f_pchar.c)
   * The integer stored at the top of the stack is treated as the **ascii value** of the character to be printed
@@ -613,6 +620,7 @@ BekiHabesha@BekiHabesha:~/monty$
 * **Implement the [**pstr**](./f_pstr.c) opcode.**
 ###
 <H3><ins>The pstr opcode</ins></H3>
+
 * The **opcode** [**pstr**](./f_pstr.c) **prints** the string starting at the top of the stack, followed by a new line.
   * <ins>**Usage</ins>:** [**pstr**](./f_pstr.c)
   * The **integer stored in each element of the stack** is treated as the **ascii value** of the character to be printed
@@ -650,12 +658,50 @@ BekiHabesha@BekiHabesha:~/monty$
 * **Implement the [**rotl**](./f_rotl.c) opcode.**
 ###
 <H3><ins>The rotl opcode</ins></H3>
+
 * The **opcode** [**rotl**](./f_rotl.c) **prints** the string starting at the top of the stack, followed by a new line.
   * <ins>**Usage</ins>:** [**rotl**](./f_rotl.c)
   * The top element of the stack becomes the last one, and the second top element of the stack becomes the first one.
   * [**rotl**](./f_rotl.c) never fails
 
-![Beki.]( https://i.ibb.co/8P04W0L/for-no-13png.png)
+```js
+BekiHabesha@BekiHabesha:~/monty$ cat bytecodes/35.m 
+push 1
+push 2
+push 3
+push 4
+push 5
+push 6
+push 7
+push 8
+push 9
+push 0
+pall
+rotl
+pall
+BekiHabesha@BekiHabesha:~/monty$ ./monty bytecodes/35.m 
+0
+9
+8
+7
+6
+5
+4
+3
+2
+1
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+BekiHabesha@BekiHabesha:~/monty$ 
+```
 
 ##
 
@@ -663,10 +709,10 @@ BekiHabesha@BekiHabesha:~/monty$
 
 * **Implement the [**rotr**](./f_rotr.c) opcode.**
 ###
+<H3><ins>The rotr opcode</ins></H3>
 
-<H3><ins>The rotr opcode</ins> :
-* The **opcode [**rotr**](./f_rotr.c) rotates the stack to the bottom.
-  * <ins>**Usage</ins>:** **rotr**
+* The **opcode** [**rotr**](./f_rotr.c) **rotates** the stack to the bottom.
+  * <ins>**Usage</ins>:** [**rotr**](./f_rotr.c)
   * The last element of the stack becomes the top element of the stack.
   * [**rotr**](./f_rotr.c) never fails
 
@@ -676,68 +722,124 @@ BekiHabesha@BekiHabesha:~/monty$
 
 * **Implement the [**stack**](./f_stack.c) and [**queue**](./f_queue.c) opcodes.**
 ###
+<H3><ins>The stack opcode</ins></H3>
 
-<H3><ins>The stack opcode</ins> :
-* The **opcode [**stack**](./f_stack.c) sets the format of the data to a stack (LIFO). This is the default behavior of the program.
-  * <ins>**Usage</ins>:** **stack**
+* The **opcode** [**stack**](./f_stack.c) **sets the format of the data to a stack (LIFO)**. This is the **default behavior of the program.**
+  * <ins>**Usage</ins>:** [**stack**](./f_stack.c)
 ###
+<H3><ins>The queue opcode</ins></H3>
 
-<H3><ins>The queue opcode</ins> :
-* The **opcode [**queue**](./f_queue.c) sets the format of the data to a queue (FIFO).
-  * <ins>**Usage</ins>:** **queue**
+* The **opcode** [**queue**](./f_queue.c) **sets the format of the data to a queue (FIFO)**.
+  * <ins>**Usage</ins>:** [**queue**](./f_queue.c)
 ###
 * <ins>**When switching mode:**</ins>
   * The top of the stack becomes the front of the queue
   * The front of the queue becomes the top of the stack
 
-![Beki.]( https://i.ibb.co/zrhCJcj/for-no-15png.png)
+```js
+BekiHabesha@BekiHabesha:~/monty$ cat bytecodes/47.m
+queue
+push 1
+push 2
+push 3
+pall
+stack
+push 4
+push 5
+push 6
+pall
+add
+pall
+queue
+push 11111
+add
+pall
+BekiHabesha@BekiHabesha:~/monty$ ./monty bytecodes/47.m
+1
+2
+3
+6
+5
+4
+1
+2
+3
+11
+4
+1
+2
+3
+15
+1
+2
+3
+11111
+BekiHabesha@BekiHabesha:~/monty$ 
+```
 
 ##
 
 ## **No. 16. Brainf^ck** :heavy_check_mark:
 * **File:**
   * [**1000-school.bf**](./bf/1000-school.bf)
-###
+#######
 * <ins>**Write a Brainf*ck script that prints School,**</ins> followed by a new line.
   * All your Brainf*ck files should be stored inside the **bf** sub directory.
   * You can install the **bf** interpreter to test your code: **sudo apt-get install bf**
   * Read: [**Brainf*ck**](https://intranet.alxswe.com/rltoken/x0I37o6PVmnT0M1RF0XXjg)
 
-![Beki.]( https://i.ibb.co/qxCpqWR/for-no-16.png)
+```js
+BekiHabesha@BekiHabesha:~/monty/bf$ bf 1000-school.bf 
+School
+BekiHabesha@BekiHabesha:~/monty/bf$ 
+```
 
 ##
 
 ## **No. 17. Add two digits** :heavy_check_mark:
 * **File:**
   * [**1001-add.bf**](./bf/1001-add.bf)
-###
+#######
 * <ins>**Add two digits given by the user.**</ins>
   * Read the two digits from stdin, add them, and print the result
   * The total of the two digits with be one digit-long (<10).
 
-![Beki.]( https://i.ibb.co/KqHLnqG/for-no-17.png)
+```js
+BekiHabesha@BekiHabesha:~/monty/bf$ bf ./1001-add.bf
+81
+9BekiHabesha@BekiHabesha:~/monty/bf$ 
+```
 
 ##
 
 ## **No. 18. Multiplication** :heavy_check_mark:
 * **File:**
   * [**1002-mul.bf**](./bf/1002-mul.bf)
-###
+#######
 * <ins>**Multiply two digits given by the user.**</ins>
   * Read the two digits from stdin, multiply them, and print the result
   * The result of the multiplication will be one digit-long (<10).
 
-![Beki.]( https://i.ibb.co/FsVQ3qg/for-no-18.png)
+```js
+BekiHabesha@BekiHabesha:~/monty/bf$ bf 1002-mul.bf
+24
+8BekiHabesha@BekiHabesha:~/monty/bf$ 
+```
 
 ##
 
 ## **No. 19. Multiplication level up** :heavy_check_mark:
 * **File:**
   * [**1003-mul.bf**](./bf/1003-mul.bf)
-###
+#######
 * <ins>**Multiply two digits given by the user.**</ins>
   * Read the two digits from stdin, multiply them, and print the result, followed by a new line.
 
-![Beki.]( https://i.ibb.co/ssKBC6y/for-no-19.png)
+```js
+BekiHabesha@BekiHabesha:~/monty/bf$ bf 1003-mul.bf 
+77
+49
+BekiHabesha@BekiHabesha:~/monty/bf$ 
+```
 
 #
