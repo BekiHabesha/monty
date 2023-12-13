@@ -15,6 +15,26 @@
 ##
 * **File_name:** <ins>**README.md file**</ins>
 * **Created:** <ins>**On December 12, 2023**</ins>
+* **Author: 🖊** <ins>***Bereket Dereje Mekkonen***</ins>👨🏽‍💻
+* **Project:** [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
+* **GitHub repository:** :floppy_disk: [**monty**](https://github.com/BekiHabesha/monty)
+* **Directory:** 📦
+  * [**monty**](https://github.com/BekiHabesha/monty)  🗂
+  * [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
+* **Project Tasks:** <ins>**Mandatory and Advanced**</ins>
+* **Tasks in number:** <ins>**20 Tasks (6-Mandatory & 14-Advanced)**</ins>
+* **Mandatory_Tasks:** <ins>**From Task 0 to 5**</ins>
+* **Advanced_Tasks:** <ins>**From Task 6 to 19**</ins>
+* <ins>**Project Description</ins>:** 📝 ⌛
+* **Project Weight: ⚖️** <ins>**2 (Two)**</ins>
+* **Project Start Date:📅** <ins>**Dec 12, 2023 🕕6:00 AM**</ins>
+* **Project End Date:🗓️** <ins>**Dec 15, 2023 🕕6:00 AM**</ins>
+* **Checker Released Date:⏱️** <ins>**Dec 13, 2023 🕛 12:00 AM**</ins>
+* **Auto Review Launched Date:⏰** <ins>**@ The Deadline, Dec 15, 2023**</ins>
+##
+##
+* **File_name:** <ins>**README.md file**</ins>
+* **Created:** <ins>**On December 12, 2023**</ins>
 * **Author:** <ins>***Bereket Dereje Mekkonen***</ins>
 * **Project:** [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
 * **GitHub repository:** :floppy_disk: [**monty**](https://github.com/BekiHabesha/monty)
