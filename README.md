@@ -199,9 +199,15 @@
 * Please use the following [**data structures**](./monty.h) for this project. Don’t forget to include them in your [**header file**](./monty.h).
 
 ```js
-string.bold()
-<b>/**</b>
-<b>* struct stack_s - doubly linked list representation of a stack (or queue)</b>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+</head> 
+<body>
+<p id="mypara">
+/**
+ * struct stack_s - doubly linked list representation of a stack (or queue)</b>
  * @n: integer
  * @prev: points to the previous element of the stack (or queue)
  * @next: points to the next element of the stack (or queue)
@@ -214,7 +220,15 @@ typedef struct stack_s
         int n;
         struct stack_s *prev;
         struct stack_s *next;
-<b>} stack_t;</b>
+ stack_t;</p>
+	 <script>
+    function changeStyle(){
+        var element = document.getElementById("myPara");
+        element.style.fontWeight = "bold";
+    }
+    </script>
+</body>
+</html>
 ```
 
 <br>
