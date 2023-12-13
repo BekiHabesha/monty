@@ -217,14 +217,14 @@
  */
 typedef struct stack_s
 {
-        int n;
+        **int n;**
         struct stack_s *prev;
         struct stack_s *next;
  stack_t;</p>
 	 <script>
     function changeStyle(){
         var element = document.getElementById("myPara");
-        element.style.fontWeight = "bold";
+        __element.style.fontWeight = "bold";__
     }
     </script>
 </body>
