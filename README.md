@@ -782,7 +782,7 @@ BekiHabesha@BekiHabesha:~/monty$
 ## **No. 16. Brainf^ck** :heavy_check_mark:
 * **File:**
   * [**1000-school.bf**](./bf/1000-school.bf)
-#######
+######
 * <ins>**Write a Brainf*ck script that prints School,**</ins> followed by a new line.
   * All your Brainf*ck files should be stored inside the **bf** sub directory.
   * You can install the **bf** interpreter to test your code: **sudo apt-get install bf**
@@ -799,7 +799,7 @@ BekiHabesha@BekiHabesha:~/monty/bf$
 ## **No. 17. Add two digits** :heavy_check_mark:
 * **File:**
   * [**1001-add.bf**](./bf/1001-add.bf)
-#######
+######
 * <ins>**Add two digits given by the user.**</ins>
   * Read the two digits from stdin, add them, and print the result
   * The total of the two digits with be one digit-long (<10).
@@ -815,7 +815,7 @@ BekiHabesha@BekiHabesha:~/monty/bf$ bf ./1001-add.bf
 ## **No. 18. Multiplication** :heavy_check_mark:
 * **File:**
   * [**1002-mul.bf**](./bf/1002-mul.bf)
-#######
+######
 * <ins>**Multiply two digits given by the user.**</ins>
   * Read the two digits from stdin, multiply them, and print the result
   * The result of the multiplication will be one digit-long (<10).
@@ -831,7 +831,7 @@ BekiHabesha@BekiHabesha:~/monty/bf$ bf 1002-mul.bf
 ## **No. 19. Multiplication level up** :heavy_check_mark:
 * **File:**
   * [**1003-mul.bf**](./bf/1003-mul.bf)
-#######
+######
 * <ins>**Multiply two digits given by the user.**</ins>
   * Read the two digits from stdin, multiply them, and print the result, followed by a new line.
 
