@@ -844,8 +844,5 @@ BekiHabesha@BekiHabesha:~/monty/bf$ bf 1003-mul.bf
 49
 BekiHabesha@BekiHabesha:~/monty/bf$
 ```
-[<img src="https://img.youtube.com/vi/lyZQPjUT5B4/default.jpg" width="50%">](https://youtu.be/lyZQPjUT5B4)
-
-[<img src="https://img.youtube.com/vi/lyZQPjUT5B4/default.jpg" width="45%" height="45%">](https://www.youtube.com/watch?v=lyZQPjUT5B4&embeds_referring_euri=https%3A%2F%2Fintranet.alxswe.com%2F&feature=emb_imp_woyt)
 
 #
