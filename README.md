@@ -2,7 +2,7 @@
 <H1 align="center", height="1500"> <ins> 0x19.C- Stacks, Queues - LIFO, FIFO <br> The Monty Language </ins> </H1>
 
 <p align="center">
-  <img src="https://i.ibb.co/BLrpTFn/0x18-C-Dynamic-libraries-ALX-Logo.png" />
+  <img src="https://i.ibb.co/pyG5p9V/0x19-C-Stacks-Queues-LIFO-FIFO-Alx-enginn-logo.png" />
 </p>
 
 ### [*0x19.C- Stacks, Queues - LIFO, FIFO (monty) /The Monty Language/*](https://intranet.alxswe.com/projects/249) *is a project to be done in teams of 2 people or alone (solo)*
