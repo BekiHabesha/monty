@@ -843,25 +843,9 @@ BekiHabesha@BekiHabesha:~/monty/bf$ bf 1003-mul.bf
 77
 49
 BekiHabesha@BekiHabesha:~/monty/bf$ 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4" title="Bubble-sort with Hungarian (&quot;Csángó&quot;) folk dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
-
-```js
-<script>
-  document.getElementById('header').innerHTML = "<iframe title='YouTube video player'   type=\'text/html\' width='640' height='390' src='http://www.youtube.com/embed/W-Q7RMpINVo' frameborder='0' allowFullScreen></iframe>"
-</script>
-```
-<p>
-  video = "<iframe title='YouTube video player'   type=\'text/html\' width='640' height='390' src='http://www.youtube.com/embed/W-Q7RMpINVo' frameborder='0' allowFullScreen></iframe>"
-</p>
-
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-
-[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4" title="Bubble-sort with Hungarian (&quot;Csángó&quot;) folk dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #
