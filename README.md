@@ -17,8 +17,8 @@
 * **Created:** <ins>**On December 12, 2023**</ins>
 * **Author: 🖊** <ins>***Bereket Dereje Mekkonen***</ins>👨🏽‍💻
 * **Project Title:💻**  [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
-* **GitHub repository:**📦 [**monty**](https://github.com/BekiHabesha/monty)
-* **Directory:** 🗂
+* **GitHub repository:** 📦 [**monty**](https://github.com/BekiHabesha/monty)
+* **Directory:**  🗂
   * [**monty**](https://github.com/BekiHabesha/monty)  📁
   * [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
 * **Project Tasks:** <ins>**Mandatory and Advanced**</ins>
@@ -41,9 +41,9 @@
 
 ## <ins>**PROJECT_TITLE</ins>: 💻**    [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
 
-## <ins>**GITHUB_REPOSITORY</ins>:📦**    [**monty**](https://github.com/BekiHabesha/monty)
+## <ins>**GITHUB_REPOSITORY</ins>:** 📦    [**monty**](https://github.com/BekiHabesha/monty)
 
-## <ins>**DIRECTORY</ins>: 🗂**  [**monty**](https://github.com/BekiHabesha/monty) 📁 and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
+## <ins>**DIRECTORY</ins>:** 🗂  [**monty**](https://github.com/BekiHabesha/monty) 📁 and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
 
 ### 
 
@@ -326,9 +326,9 @@ BekiHabesha@BekiHabesha:~/monty$
 
 ## <ins>**PROJECT_TITLE</ins>: 💻**    [**0x19. C - Stacks, Queues - LIFO, FIFO**](https://intranet.alxswe.com/projects/249)
 
-## <ins>**GITHUB_REPOSITORY</ins>:📦**    [**monty**](https://github.com/BekiHabesha/monty)
+## <ins>**GITHUB_REPOSITORY</ins>:** 📦    [**monty**](https://github.com/BekiHabesha/monty)
 
-## <ins>**DIRECTORY</ins>: 🗂**  [**monty**](https://github.com/BekiHabesha/monty) 📁 and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
+## <ins>**DIRECTORY</ins>:**   🗂  [**monty**](https://github.com/BekiHabesha/monty) 📁 and  [**bf**](https://github.com/BekaHabesha/monty/tree/master/bf) 📂
 
 ### 
 
