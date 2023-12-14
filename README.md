@@ -842,10 +842,7 @@ BekiHabesha@BekiHabesha:~/monty/bf$ bf 1002-mul.bf
 BekiHabesha@BekiHabesha:~/monty/bf$ bf 1003-mul.bf 
 77
 49
-BekiHabesha@BekiHabesha:~/monty/bf$ 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4" title="Bubble-sort with Hungarian (&quot;Csángó&quot;) folk dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+BekiHabesha@BekiHabesha:~/monty/bf$
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4" title="Bubble-sort with Hungarian (&quot;Csángó&quot;) folk dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #
